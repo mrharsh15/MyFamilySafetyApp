@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "598031328505",
-    "project_id": "familysafety-cacac",
-    "storage_bucket": "familysafety-cacac.appspot.com"
+    "project_number": "1092765671628",
+    "project_id": "familysafety-369022",
+    "storage_bucket": "familysafety-369022.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:598031328505:android:12355870c8816ba980ee28",
+        "mobilesdk_app_id": "1:1092765671628:android:48c87c2058a68030a82269",
         "android_client_info": {
-          "package_name": "com.codewithme.familysafety"
+          "package_name": "com.codewithme.myfamilysafety"
         }
       },
       "oauth_client": [
         {
-          "client_id": "598031328505-ke7ocscgh61d7tc7n20bj3hsfhcc4jjh.apps.googleusercontent.com",
+          "client_id": "1092765671628-of89rm7tr687s2b4187h3v5grmd0i8bk.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.codewithme.familysafety",
+            "package_name": "com.codewithme.myfamilysafety",
             "certificate_hash": "644ae43f59cc2f7ef17fcf0e02feaddf7b70f8b1"
           }
         },
         {
-          "client_id": "598031328505-hd5ecuk13bug9f4rkifavfpuplddbbkq.apps.googleusercontent.com",
+          "client_id": "1092765671628-vc1iovpcbl5ik64v8qpa8gq119mt87fe.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBvIq2bH0maRN9TS1zWHnPZ5lOiZ_LCzD8"
+          "current_key": "AIzaSyDYAJ8C93rfR_klkn1JdqtZLN4roWHqoHM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "598031328505-hd5ecuk13bug9f4rkifavfpuplddbbkq.apps.googleusercontent.com",
+              "client_id": "1092765671628-vc1iovpcbl5ik64v8qpa8gq119mt87fe.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
