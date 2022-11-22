@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FamilySafety</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="default_web_client_id_auth">1092765671628-of89rm7tr687s2b4187h3v5grmd0i8bk.apps.googleusercontent.com</string>
+    <string name="continue_with_google">Continue with google</string>
+</resources>
